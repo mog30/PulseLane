@@ -5,10 +5,10 @@ PulseLane is open-source, free and diverse rhytm game which introduces community
 ---
 ### Features
 1. Full community support - annyone can make a custom maps and upload it in-game so another players can enjoy and play them.
-2. In-game map editor - you can create your own beatmap and publish it! [Currently early-WIP]
+2. In-game map editor - you can create your own beatmap and publish it! *[Currently early-WIP]*
 3. In-game beatmaps browser and downloader.
 4. Core gameplay idea heavy-inspired by Project Sekai: Colorful Stage! and Sonolus.
-5. Custom skins, sound effects which you also can make yourself! [WIP too - i'm working hard on it]
+5. Custom skins, sound effects which you also can make yourself! *[WIP too - i'm working hard on it]*
 6. Full compatibility with Sonolus' next-sekai engine beatmaps - import LevelData or json and play!
 7. Latest Unity Release - good compatibility and nice performance. Currently 6.6 - when 6.7 LTS Releases, we'll stick on this one probably.
 
@@ -33,5 +33,13 @@ At first, I'm making this game for my school project, so you may expect a lot of
 
 For now, this is all. Surely, this will be updated and there will be more in this roadmap, but unfortunately, i don't have very much time to work on game.
 
+---
+
 ### IMPORTANT
 Currently game is **closed-source** - this because i at first need to polish all, get rid out of unnecessary scripts, assets, work on optimization and then open source code.
+
+---
+
+### Thanks to...
+...[next-sekai github](https://github.com/Next-SEKAI/sonolus-next-sekai-engine) - if they wouldn't exist, making this game would become really harder,
+and [Sonolus](https://sonolus.com) with [Project Sekai: Colorful Stage!](https://pjsekai.sega.jp/) for inspirements, they're concepts are very cool and gave me motivation to do something myself.
